@@ -5,7 +5,7 @@ This writeup describes Code, a diagram, detils on how SOLID is used, and a Bug L
 ## Code Details
 test.py includes all test cases with comments on expected outputs.
 
-![Diagram for Trustworthy AI Design Challenge](https://github.com/MT-GoCode/TrustworthyAIDesignChallenge/assets/36799073/c87cceb3-47e3-4330-82db-055c5f9ff05a)
+![Diagram for Trustworthy AI Design Challenge](https://github.com/MT-GoCode/TrustworthyAIDesignChallenge/assets/36799073/3ac94712-95c2-49b4-967f-f55a8b1ef883)
 
 ## How did I use SOLID?
 #### Single Responsibility Principle
