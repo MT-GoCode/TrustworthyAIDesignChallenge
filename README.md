@@ -1,6 +1,6 @@
 # TrustworthyAIDesignChallenge
 
-This writeup describes Code, a diagram, detils on how SOLID is used, and a Bug Log.
+This writeup describes Code, a diagram, details on how SOLID is used, and a Bug Log.
 
 ## Code Details
 test.py includes all test cases with comments on expected outputs.
